@@ -24,7 +24,7 @@
     [super viewDidLoad];
     _appDelegate = [AppDelegate sharedDelegate];
     
-    NSLog(@"%@", [_appDelegate getTextFromImage:[UIImage imageNamed:@"test3.png"]]);
+    //NSLog(@"%@", [_appDelegate getTextFromImage:[UIImage imageNamed:@"test3.png"]]);
 }
 
 - (void)setUpImagePickerController {

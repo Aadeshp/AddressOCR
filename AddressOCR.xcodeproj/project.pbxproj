@@ -21,7 +21,6 @@
 		5D0EC86F1A4A25A3004D263A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D0EC86E1A4A25A3004D263A /* Images.xcassets */; };
 		5D0EC8721A4A25A3004D263A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D0EC8701A4A25A3004D263A /* LaunchScreen.xib */; };
 		5D0EC87E1A4A25A3004D263A /* AddressOCRTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D0EC87D1A4A25A3004D263A /* AddressOCRTests.m */; };
-		5D2D10591A4A278B003E841D /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D2D10581A4A278B003E841D /* test.png */; };
 		5D5F056B1A4A2D8A009DA15A /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = 5D5F056A1A4A2D8A009DA15A /* tessdata */; };
 		5DDA65651A4CD0E000C3606A /* HistoryTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DDA65641A4CD0E000C3606A /* HistoryTableViewCell.m */; };
 		5DFE71EC1A4E040000644D6D /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DFE71EB1A4E040000644D6D /* libsqlite3.dylib */; };
@@ -66,7 +65,6 @@
 		5D0EC8771A4A25A3004D263A /* AddressOCRTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AddressOCRTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D0EC87C1A4A25A3004D263A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D0EC87D1A4A25A3004D263A /* AddressOCRTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddressOCRTests.m; sourceTree = "<group>"; };
-		5D2D10581A4A278B003E841D /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
 		5D5F056A1A4A2D8A009DA15A /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = "<group>"; };
 		5DDA65631A4CD0E000C3606A /* HistoryTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HistoryTableViewCell.h; sourceTree = "<group>"; };
 		5DDA65641A4CD0E000C3606A /* HistoryTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HistoryTableViewCell.m; sourceTree = "<group>"; };
@@ -166,7 +164,6 @@
 			children = (
 				5D04C7861A4F3E6000BDE2BD /* test3.png */,
 				5D04C7841A4F3CAE00BDE2BD /* test2.png */,
-				5D2D10581A4A278B003E841D /* test.png */,
 				5D0EC8621A4A25A3004D263A /* Info.plist */,
 				5D0EC8631A4A25A3004D263A /* main.m */,
 			);
@@ -309,7 +306,6 @@
 				5D0EC8721A4A25A3004D263A /* LaunchScreen.xib in Resources */,
 				5D5F056B1A4A2D8A009DA15A /* tessdata in Resources */,
 				5D0EC86F1A4A25A3004D263A /* Images.xcassets in Resources */,
-				5D2D10591A4A278B003E841D /* test.png in Resources */,
 				5D04C7871A4F3E6000BDE2BD /* test3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
